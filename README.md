@@ -12,3 +12,9 @@ TODO: For me
 - Comment more of the HTML
 - Publish to Github Pages
 - Sleep
+
+TODO: Kylie stuff
+- Write one to two sentence descriptions for reasons to play badminton
+- Come up with a catchy title that will make people want to scroll down
+- Make some good text to encourage people to join the club and or the team
+- Spellcheck stuff (if you want)
