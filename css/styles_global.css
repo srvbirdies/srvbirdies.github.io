@@ -18,7 +18,7 @@ body {
 }
 /* Title Styling */
 #title {
-  padding: 1% 5% 7%;
+  padding: 1% 5% 5%;
 }
 /* Heading Styling */
 .heading-text {
@@ -103,7 +103,11 @@ body {
 .link-button {
   margin-bottom: 10px;
 }
+.link-section-heading-top {
+  font-family: "Roboto", sans-serif;
+}
 .link-section-heading {
+  font-family: "Roboto", sans-serif;
   margin-top: 30px;
 }
 /* Footer Styling */
