@@ -11,7 +11,8 @@ TODO: For me
 - Add in responsive Bootstrap
 - Comment more of the HTML
 - ~~Publish to Github Pages~~
-- Get images working
+- ~~Get images working~~
+- Separate badminton club and team into two separate pages (look at document for what to put)
 - Sleep
 
 TODO: Kylie stuff
