@@ -4,6 +4,9 @@ body {
   overflow-x: hidden;
 }
 /* Navbar Styling */
+#navbar-style {
+  padding: 1% 5% 1%;
+}
 .navbar-brand {
   font-family: "Roboto", sans-serif;
   font-size: 2.5rem;
