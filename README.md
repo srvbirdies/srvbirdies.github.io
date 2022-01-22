@@ -21,4 +21,6 @@ TODO: Kylie stuff
 - Make some good text to encourage people to join the club and or the team
 - Spellcheck stuff (if you want)
 
+Note: Kylie and Isaac, check back here for stuff to do and to see stuff that I've fixed and add stuff to the list 
+
 ![Alt Text](https://pa1.narvii.com/6321/b31579ac3f5d17c535a12eb967a96c68b4970f04_hq.gif)
