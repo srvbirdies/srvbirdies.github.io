@@ -10,9 +10,9 @@ TODO: For me
 - Massive refactoring of CSS
 - Add in responsive Bootstrap
 - Comment more of the HTML (especially the stuff Isaac would need to edit)
-- ~~Publish to Github Pages
-- ~~Get images working
-- ~~Separate badminton club and team into two separate pages (look at document for what to put)
+- ~~Publish to Github Pages~~
+- ~~Get images working~~
+- ~~Separate badminton club and team into two separate pages (look at document for what to put)~~
 - Sleep
 - For the greeting page: just say “Welcome to SRVHS Badminton” and take out the other part. Change the picture to include everyone
 - The Ready to Join Part (change to) Ready to Join? Does badminton peak your interest? If so, please check out our club and team! We look forward to meeting you soon.
