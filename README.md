@@ -10,7 +10,8 @@ TODO: For me
 - Massive refactoring of CSS
 - Add in responsive Bootstrap
 - Comment more of the HTML
-- Publish to Github Pages
+- ~~Publish to Github Pages~~
+- Get images working
 - Sleep
 
 TODO: Kylie stuff
