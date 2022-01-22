@@ -9,7 +9,7 @@ TODO: Leave instructions for Isaac on how to change stuff like
 TODO: For me
 - Massive refactoring of CSS
 - Add in responsive Bootstrap
-- Comment more of the HTML
+- Comment more of the HTML (especially the stuff Isaac would need to edit)
 - ~~Publish to Github Pages~~
 - ~~Get images working~~
 - Separate badminton club and team into two separate pages (look at document for what to put)
