@@ -32,5 +32,5 @@ Note: Kylie and Isaac, check back here for stuff to do and to see stuff that I'v
 
 ![Alt Text](https://pa1.narvii.com/6321/b31579ac3f5d17c535a12eb967a96c68b4970f04_hq.gif)<br>
 <p>How I feel when making the webiste. lol.</p>
-![Alt_Text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.gfycat.com%2FInfatuatedUnrulyGyrfalcon-max-1mb.gif&f=1&nofb=1)<br>
+![Alt Text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.gfycat.com%2FInfatuatedUnrulyGyrfalcon-max-1mb.gif&f=1&nofb=1)<br>
 <p>yui vibe :)</p>
