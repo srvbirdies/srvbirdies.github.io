@@ -1,0 +1,16 @@
+img {
+  width: 30%;
+}
+#gallery-title {
+  padding: 1% 5% 1%;
+}
+#photos-20-21 {
+  padding: 1% 5% 1%;
+  text-align: center;
+}
+.year-heading {
+  font-family: "Roboto", sans-serif;
+  font-size: 3.5rem;
+  font-weight: 700;
+  text-align: center;
+}

@@ -1,0 +1,114 @@
+/* Element Styling */
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+/* Navbar Styling */
+.navbar-brand {
+  font-family: "Roboto", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.container-fluid {
+  margin: 0;
+  padding: 0;
+}
+/* Title Styling */
+#title {
+  padding: 1% 5% 7%;
+}
+/* Heading Styling */
+.heading-text {
+  font-family: "Roboto", sans-serif;
+  font-size: 6rem;
+  font-weight: 400;
+}
+.header-image {
+  width: 90%;
+}
+/* Section Styling */
+.green-section {
+  background-color: #3E7C17;
+  color: #FFF;
+}
+.cream-section {
+  background-color: #FEF5ED;
+}
+/* Reasons Styling */
+#reasons {
+  padding: 5% 5% 3%;
+  text-align: center;
+}
+.reason-heading {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 3rem;
+  padding-bottom: 3%;
+}
+.reason-image-left {
+  width: 66.7%;
+}
+.reason-image-middle {
+  width: 88.3%;
+}
+.reason-image-right {
+  width: 100%;
+}
+.reason-title {
+  padding: 3%;
+}
+.reason-description {
+  text-align: left;
+}
+/* Team Styling */
+#team-description {
+  padding: 5% 5% 3%;
+}
+.team-image {
+  margin: auto;
+  position: relative;
+  margin-left: 50px;
+  width: 80%;
+}
+.team-heading-text {
+  font-family: "Roboto", sans-serif;
+  font-size: 3.2rem;
+  font-weight: 700;
+}
+.team-description-text {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.5rem;
+}
+/* Club Styling */
+#club-description {
+  padding: 5% 5% 3%;
+}
+.club-image {
+  padding: auto;
+  position: relative;
+  margin-left: 50px;
+  width: 80%;
+}
+.club-heading-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
+/* Links Styling */
+#links-section {
+  padding: 5% 5% 5%;
+}
+.link-button {
+  margin-bottom: 10px;
+}
+.link-section-heading {
+  margin-top: 30px;
+}
+/* Footer Styling */
+#footer {
+  padding: 1%;
+  text-align: center;
+}
+.footer-icon {
+  color: black;
+  margin: auto 5px;
+}
