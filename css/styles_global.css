@@ -105,9 +105,11 @@ body {
 }
 .link-section-heading-top {
   font-family: "Roboto", sans-serif;
+  font-weight: 700;
 }
 .link-section-heading {
   font-family: "Roboto", sans-serif;
+  font-weight: 700;
   margin-top: 30px;
 }
 /* Footer Styling */

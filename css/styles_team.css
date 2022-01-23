@@ -1,0 +1,22 @@
+a {
+  color: #FFF;
+}
+#coach-officer-description {
+  padding: 1% 5% 1%;
+}
+.coach-text-top {
+  font-family: "Roboto", sans-serif;
+  margin-top: 20px;
+}
+.coach-text {
+  font-family: "Roboto", sans-serif;
+  margin-top: 30px;
+}
+.officer-text-top {
+  font-family: "Roboto", sans-serif;
+  margin-top: 20px
+}
+.officer-text {
+  font-family: "Roboto", sans-serif;
+  margin-top: 30px;
+}
