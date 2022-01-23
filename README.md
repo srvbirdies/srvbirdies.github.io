@@ -11,18 +11,10 @@ TODO: For me
 - Add in responsive Bootstrap
 - Comment more of the HTML (especially the stuff Isaac would need to edit)
 - Change picture of Arunan talking to something else because he won't like it
-- ~~Publish to Github Pages~~
-- ~~Get images working~~
 - ~~Separate badminton club and team into two separate pages (look at document for what to put)~~
 - Sleep
-- ~~For the greeting page: just say “Welcome to SRVHS Badminton” and take out the other part. Change the picture to include everyone~~
-- ~~The Ready to Join Part (change to) Ready to Join? Does badminton peak your interest? If so, please check out our club and team! We look forward to meeting you soon.~~
-- ~~Reasons to play badminton: I think you could take out the additional text and leave it at that~~
-- ~~Make separate tabs for badminton club and team so that the home page isn’t as cluttered (and thus take away some of the sections at that bottom)~~
-- ~~To add more to the sections, introduce captains and coaches in each respective section (coach lee, coach libby, coach kingman; kylie, arunan, isaac)~~
 - Pictures: I’ll help choose several of them and caption them. Maybe we can add the google photo links to the website to provide all of them? 
-- **Announcements: maybe add “and schedule”; we could either somehow embed a calendar in or do it as coach did before on the old website (google calendar setup and embed, completed adding "and schedule" to all pages)**
-- ~~Is there a way to change the website name to “srvhsbadminton. Blah blah blah”~~
+- Announcements: maybe add “and schedule”; we could either somehow embed a calendar in or do it as coach did before on the old website (google calendar setup and embed, completed adding "and schedule" to all pages)
 
 
 TODO: Kylie stuff
