@@ -10,6 +10,7 @@ TODO: For me
 - Massive refactoring of CSS
 - Add in responsive Bootstrap
 - Comment more of the HTML (especially the stuff Isaac would need to edit)
+- Change picture of Arunan talking to something else because he won't like it
 - ~~Publish to Github Pages~~
 - ~~Get images working~~
 - ~~Separate badminton club and team into two separate pages (look at document for what to put)~~
