@@ -12,7 +12,7 @@ TODO: For me
 - Sleep
 - Pictures: I’ll help choose several of them and caption them. Maybe we can add the google photo links to the website to provide all of them?
 - Change "be part of a community" image on home page (waiting for a better image, current ones kinda suck, lol)
-- ~~Announcements: maybe add “and schedule”;~~ we could either somehow embed a calendar in or do it as coach did before on the old website (google calendar setup and embed)
+- ~~Announcements: maybe add “and schedule”;~~ we could either somehow embed a calendar in or do it as coach did before on the old website (google calendar setup and embed) (could you also provide me with some events and their details so I could set up the calendar with actual information?)
 
 
 TODO: Kylie stuff
