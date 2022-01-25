@@ -1,6 +1,6 @@
 # SRVHS Badminton Website
 The source code to the SRVHS Badminton website.
-Hi Kylie's mom :)
+Hi Kylie's mom and Arunan :)
 
 TODO: Leave instructions for Isaac on how to change stuff like 
 - How to change links in the link button section
