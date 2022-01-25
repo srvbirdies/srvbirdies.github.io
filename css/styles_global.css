@@ -14,7 +14,7 @@ body {
 }
 .container-fluid {
   margin: 0;
-  padding: 0;
+  /* padding: 0; */
 }
 /* Title Styling */
 #title {
@@ -22,9 +22,6 @@ body {
 }
 .image-container {
   text-align: center;
-}
-.title-carousel-image {
-  /* width: 70%; */
 }
 /* Heading Styling */
 .heading-text {
