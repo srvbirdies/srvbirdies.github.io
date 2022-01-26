@@ -13,8 +13,11 @@
 .contact-image-left {
   width: 70%;
 }
+.contact-image-middle {
+  width: 91.7%;
+}
 .contact-image-right {
-  width: 65.9%;
+  width: 64.7%;
 }
 .contact-description {
   font-family: "Roboto", sans-serif;
