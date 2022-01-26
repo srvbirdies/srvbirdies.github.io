@@ -21,7 +21,7 @@ p {
   font-family: "Roboto", sans-serif;
 }
 #error-container {
-  margin: 10px 50px 10px;
+  margin: auto 50px auto;
   padding: 7% 5% 7%;
   text-align: center;
 }
