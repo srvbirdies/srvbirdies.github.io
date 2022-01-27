@@ -8,6 +8,7 @@ TODO: Leave instructions for Isaac on how to change stuff like
 
 TODO: For me
 - I think the website is almost done :)
+- Provide Isaac with detailed instructions on how to add images
 - ~~Change picture of Arunan talking to something else because he won't like it~~
 - ~~Separate badminton club and team into two separate pages (look at document for what to put)~~
 - Sleep
