@@ -1,8 +1,14 @@
 a {
   color: #FFF;
 }
-#coach-officer-description {
-  padding: 3% 5% 3%;
+#coach-description {
+  padding: 1% 5% 3%;
+}
+#officer-description {
+  padding: 1% 5% 3%;
+}
+.officer-container {
+  text-align: center;
 }
 .coach-text-top {
   font-family: "Roboto", sans-serif;
@@ -12,11 +18,29 @@ a {
   font-family: "Roboto", sans-serif;
   margin-top: 30px;
 }
-.officer-text-top {
+.officer-heading-text {
   font-family: "Roboto", sans-serif;
-  margin-top: 20px
+  font-size: 4rem;
+  font-weight: 700;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 .officer-text {
   font-family: "Roboto", sans-serif;
+  font-size: 3rem;
   margin-top: 30px;
+}
+.grade-text {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.5rem;
+  margin-top: 10px;
+}
+.officer-image-1 {
+  width: 90%;
+}
+.officer-image-2 {
+  width: 90%;
+}
+.officer-image-3 {
+  width: 68%;
 }
