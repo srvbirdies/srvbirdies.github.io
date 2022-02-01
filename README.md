@@ -8,12 +8,11 @@ TODO: Leave instructions for Isaac on how to change stuff like
 
 TODO: For me
 - I think the website is almost done :)
-- Provide Isaac with detailed instructions on how to add images
+- Make good documentation for Isaac and other people on changing links and updating documents.
+- Add new photos to the website (look at messages for specific details)
 - ~~Change picture of Arunan talking to something else because he won't like it~~
 - ~~Separate badminton club and team into two separate pages (look at document for what to put)~~
 - Sleep
-- Pictures: I’ll help choose several of them and caption them. Maybe we can add the google photo links to the website to provide all of them?
-- Change "be part of a community" image on home page (waiting for a better image, current ones kinda suck, lol)
 - ~~Announcements: maybe add “and schedule”;~~ we could either somehow embed a calendar in or do it as coach did before on the old website (google calendar setup and embed) (could you also provide me with some events and their details so I could set up the calendar with actual information?)
 
 
