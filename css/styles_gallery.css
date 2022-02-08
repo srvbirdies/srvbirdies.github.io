@@ -1,3 +1,11 @@
+hr {
+  /* border-style: none;
+  border-top-style: dotted;
+  border-color: #FFF; */
+  border-width: 5px;
+  margin: 20px auto;
+  width: 25%;
+}
 #gallery-title {
   padding: 1% 5% 1%;
 }
@@ -9,7 +17,7 @@
   font-family: "Roboto", sans-serif;
   font-size: 3.5rem;
   font-weight: 700;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 30px;
+  margin-bottom: 5px;
   text-align: center;
 }

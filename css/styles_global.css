@@ -54,6 +54,10 @@ body {
   font-size: 3rem;
   padding-bottom: 3%;
 }
+.reason-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
 .reason-image-left {
   width: 66.7%;
 }
