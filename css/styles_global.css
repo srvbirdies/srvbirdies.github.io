@@ -43,6 +43,12 @@ body {
 .cream-section {
   background-color: #FEF5ED;
 }
+/* @media (prefers-color-scheme: dark) {
+  .cream-section {
+    background-color: #000;
+    color: #FFF;
+  }
+} */
 /* Reasons Styling */
 #reasons {
   padding: 5% 5% 3%;
@@ -65,7 +71,7 @@ body {
   width: 88.3%;
 }
 .reason-image-right {
-  width: 88.9%;
+  width: 50%;
 }
 .reason-title {
   padding: 3%;
