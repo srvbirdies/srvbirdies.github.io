@@ -1,0 +1,34 @@
+hr {
+  border-width: 5px;
+  margin: 20px auto;
+  width: 40%;
+}
+#resource-section {
+  padding: 5% 8% 3%;
+}
+.basics-heading {
+  font-family: "Roboto", sans-serif;
+  font-size: 4rem;
+  font-weight: 700;
+  text-align: center;
+}
+.section-heading {
+  font-family: "Roboto", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 400;
+  margin-top: 50px;
+  text-align: center;
+}
+.accordion-header {
+  font-family: "Roboto", sans-serif;
+
+}
+.footwork-video-container {
+  text-align: center;
+}
+.shot-video-container {
+  text-align: center;
+}
+.game-video-container {
+  text-align: center;
+}
