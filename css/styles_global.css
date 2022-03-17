@@ -6,6 +6,8 @@ body {
 /* Navbar Styling */
 #navbar-style {
   padding: 1% 5% 1%;
+  position: relative;
+  z-index: 1;
 }
 .navbar-brand {
   font-family: "Roboto", sans-serif;
@@ -14,7 +16,6 @@ body {
 }
 .container-fluid {
   margin: 0;
-  /* padding: 0; */
 }
 /* Title Styling */
 #title {
@@ -140,7 +141,9 @@ body {
 /* Footer Styling */
 #footer {
   padding: 1%;
+  position: relative;
   text-align: center;
+  z-index: 2;
 }
 .footer-icon {
   color: black;

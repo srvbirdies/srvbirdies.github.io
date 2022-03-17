@@ -4,3 +4,9 @@
 #event-document {
   height: 800px;
 }
+.col-background {
+  background-image: url("../images/IMG_3055-50.jpg");
+  filter: blur(5px);
+  position: relative;
+  z-index: 0;
+}
