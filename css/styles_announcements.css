@@ -2,11 +2,14 @@
   padding: 1% 5% 1%;
 }
 #event-document {
-  height: 800px;
+  height: 807px;
 }
 .col-background {
   background-image: url("../images/IMG_3055-50.jpg");
-  filter: blur(5px);
-  position: relative;
-  z-index: 0;
+  background-position: center;
+  background-size: cover;
+  filter: blur(3px);
+}
+.blur {
+
 }
