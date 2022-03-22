@@ -1,6 +1,9 @@
 a {
   color: #FFF;
 }
+a:hover {
+  color: #FFC300;
+}
 #coach-description {
   padding: 1% 5% 3%;
 }
@@ -40,6 +43,9 @@ a {
 }
 .coach-image-2 {
   width: 50%;
+}
+.coach-image-3 {
+  width: 53.5%;
 }
 .officer-image {
   width: 90%;
