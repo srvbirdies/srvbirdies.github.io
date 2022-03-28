@@ -2,22 +2,7 @@
 The source code to the SRVHS Badminton website.
 Hi Kylie's mom and Arunan :)
 
-TODO: Leave instructions for Isaac on how to change stuff like 
-- How to change links in the link button section
-- Add new pictures and sections on the gallery page
-
-TODO: For me
-- I think the website is almost done :)
-- Make good documentation for Isaac and other people on changing links and updating documents.
-- Calendar and further formatting
-- ~~Announcements: maybe add “and schedule”;~~ we could either somehow embed a calendar in or do it as coach did before on the old website (google calendar setup and embed) (could you also provide me with some events and their details so I could set up the calendar with actual information?)
-
-
-TODO: Kylie stuff
-- Pictures: I’ll help choose several of them and caption them. Maybe we can add the google photo links to the website to provide all of them? 
-- Spellcheck stuff (if you want)
-
-Note: Kylie and Isaac, check back here for stuff to do and to see stuff that I've fixed and add stuff to the list 
+Will CJ figure out who I am? Maybe...
 
 ![Alt Text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Forig00.deviantart.net%2Fbb5f%2Ff%2F2013%2F011%2F4%2Fb%2Fk_on__movie__1__gif__by_kiirochi-d5r7pjt.gif&f=1&nofb=1)<br>
 yui vibe :)<br>
