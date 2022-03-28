@@ -44,12 +44,6 @@ body {
 .cream-section {
   background-color: #FEF5ED;
 }
-/* @media (prefers-color-scheme: dark) {
-  .cream-section {
-    background-color: #000;
-    color: #FFF;
-  }
-} */
 /* Reasons Styling */
 #reasons {
   padding: 5% 5% 3%;
