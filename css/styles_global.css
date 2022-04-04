@@ -3,6 +3,9 @@ body {
   max-width: 100%;
   overflow-x: hidden;
 }
+/* img:hover {
+  box-shadow: 0 0 10px black;
+} */
 /* Navbar Styling */
 #navbar-style {
   padding: 1% 5% 1%;
@@ -15,8 +18,8 @@ body {
   font-weight: 700;
 }
 .navbar-image {
-  width: 4%;
   margin-right: 15px;
+  width: 4%;
 }
 .container-fluid {
   margin: 0;
