@@ -14,6 +14,10 @@ body {
   font-size: 2.5rem;
   font-weight: 700;
 }
+.navbar-image {
+  width: 4%;
+  margin-right: 15px;
+}
 .container-fluid {
   margin: 0;
 }
@@ -46,7 +50,7 @@ body {
 }
 /* Reasons Styling */
 #reasons {
-  padding: 5% 5% 3%;
+  padding: 3% 5% 3%;
   text-align: center;
 }
 .reason-heading {
@@ -59,14 +63,8 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
 }
-.reason-image-left {
-  width: 49%;
-}
-.reason-image-middle {
-  width: 88.3%;
-}
-.reason-image-right {
-  width: 89%;
+.reason-image {
+  width: 90%;
 }
 .reason-title {
   padding: 3%;
